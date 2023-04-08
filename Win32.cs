@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace CreateThreadAlternative
+namespace Loader1
 {
     public static class Win32
     {
