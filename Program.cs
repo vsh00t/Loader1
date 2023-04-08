@@ -12,7 +12,7 @@ namespace Loader1
         {
             if (args.Length < 1)
             {
-                Console.WriteLine("Usage: Loader1 <base64_file_path>");
+                Console.WriteLine("Usage: Loader1.exe <base64_file_path>");
                 return;
             }
 
